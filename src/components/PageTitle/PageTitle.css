@@ -1,0 +1,8 @@
+.page-title-container{
+    margin-bottom: 20px;
+}
+
+.page-title{
+    text-transform: uppercase;
+    initial-letter: 5px;
+}
