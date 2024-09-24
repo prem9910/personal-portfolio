@@ -3,6 +3,13 @@
 }
 
 .page-title{
+    letter-spacing: 5px;
     text-transform: uppercase;
     initial-letter: 5px;
+}
+
+@media (max-width: 800px) {
+    .page-title{
+        font-size: 20px;
+    }
 }

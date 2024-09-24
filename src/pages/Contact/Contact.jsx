@@ -6,7 +6,7 @@ import './Contact.css';
 const Contact = () => {
   return (
     <>
-      <PageTitle pageTitle="Contact" />
+      <PageTitle pageTitle="Let's Connect" />
       <div>
         <Flex align="center" justify="center">
         <Form layout="vertical" className="contact-form">
