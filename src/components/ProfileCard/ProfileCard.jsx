@@ -10,7 +10,7 @@ import "./ProfileCard.css";
 
 const ProfileCard = () => {
   return (
-    <Flex align="center" vertical gap={10} className="profile-card">
+    <Flex align="center" justify="center" vertical gap={10} className="profile-card">
       <UserInfo />
       <Skills/>
       <SocialMedia/>

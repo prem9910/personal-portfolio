@@ -3,13 +3,13 @@ import userImage from "../assets/user.jpeg"
 export const userData = {
     profile: userImage,
     name: "Prem Prakash",
-    phone: "+91 98765 43210",
+    phone: "+91 99108 85729",
     email: "premtechcoder@gmail.com",
     address: "42 MG Road, Bangalore, Karnataka 560001",
     website: "techinnovator.in",
     role: "Full Stack Developer",
-    skills: ["React", "Node.js", "Python", "Django", "Java"],
-    about: "Namaste! I'm Prem Prakash, a passionate Full Stack Developer with 5+ years of experience in designing and developing scalable software applications. I have a strong background in computer science from IIT Bombay and a keen interest in artificial intelligence and machine learning. I'm always eager to collaborate on innovative projects and learn new technologies. Proficient in a range of technologies, including React, Node.js, Python, Django, and Java. I'm committed to contributing to India's growing tech ecosystem.",
+    skills: ["React", "Node.js", "Python", "Django", "Java","Tailwind CSS","Ant Design","MongoDb","JavaScript"],
+    about: "Namaste, I am Prem Prakash, a Full Stack Developer specializing in ReactJS and Java. Currently, I'm an intern at IBM, where I work on developing web applications using React for the frontend and Spring Boot for the backend. My projects, like InternCollab, demonstrate my ability to create efficient, user-friendly platforms. I have experience with HTML5, CSS, JavaScript, MySQL, and other web technologies, along with certifications in ReactJS and JavaScript. I'm passionate about problem-solving and eager to contribute to innovative solutions in software development.",
 
     projects: [
         {
@@ -97,14 +97,14 @@ export const userData = {
 
     education: [
         {
-            degree: "Bachelor of Science in Computer Science",
-            university: "XYZ University",
-            duration: "2015-2019",
+            degree: "Advanced Diploma in IT, Networking, and Cloud Computing",
+            university: "NSTI Bengaluru",
+            duration: "2022-2024",
         },
         {
-            degree: "Master of Science in Artificial Intelligence",
-            university: "XYZ University",
-            duration: "2019-2022",
+            degree: "Diploma in Computer Science & Engineering",
+            university: "Govt. R.C. Khaitan Polytechnic College, Jaipur, Rajasthan",
+            duration: "2018-2020",
         },
     ],
 

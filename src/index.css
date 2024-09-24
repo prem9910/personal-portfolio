@@ -8,9 +8,9 @@
 }
 
 body{
-  
- background: -webkit-linear-gradient(to right, #747f84, #283048);
-  background: linear-gradient(to right, #748084, #283048); 
+  background: #283048;
+  background: -webkit-linear-gradient(to right, #859398, #283048);
+  background: linear-gradient(to right, #859398, #283048);
 }
 
 .app {
