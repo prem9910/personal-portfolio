@@ -30,6 +30,7 @@ const Navbar = () => {
   return (
     <div className="navbar">
       <Menu
+        
         onClick={onClick}
         selectedKeys={[current]}
         mode={window.innerWidth <=800 ? "horizontal":"inline"}

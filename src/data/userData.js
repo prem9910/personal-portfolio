@@ -1,4 +1,4 @@
-import userImage from "../assets/user.png"
+import userImage from "../assets/user.jpeg"
 
 export const userData = {
     profile: userImage,
@@ -19,9 +19,65 @@ export const userData = {
             time: "2 days left",
             startDate: "Oct 5, 2023",
             color: "green",
-            bg: "#C0D6E8"
+            bg: "#C0D6E8",
+            githubLink: "https://github.com/username/ecommerce-website",
+            demoLink: "https://ecommerce-demo.com"
         },
-        // Add more projects here if needed
+        {
+            title: "Social Media App",
+            description: "Connect with friends",
+            progress: 75,
+            time: "1 week left",
+            startDate: "Sep 20, 2023",
+            color: "blue",
+            bg: "#E0E4CC",
+            githubLink: "https://github.com/username/social-media-app",
+            demoLink: "https://socialmedia-demo.com"
+        },
+        {
+            title: "Project Management Tool",
+            description: "Manage your projects",
+            progress: 60,
+            time: "3 weeks left",
+            startDate: "Aug 15, 2023",
+            color: "orange",
+            bg: "#F4E1D2",
+            githubLink: "https://github.com/username/project-management-tool",
+            demoLink: "https://projectmanagement-demo.com"
+        },
+        {
+            title: "Weather Forecast App",
+            description: "Get weather updates",
+            progress: 80,
+            time: "5 days left",
+            startDate: "Oct 1, 2023",
+            color: "purple",
+            bg: "#D1C4E9",
+            githubLink: "https://github.com/username/weather-forecast-app",
+            demoLink: "https://weatherforecast-demo.com"
+        },
+        {
+            title: "Fitness Tracker",
+            description: "Track your fitness goals",
+            progress: 50,
+            time: "1 month left",
+            startDate: "Jul 10, 2023",
+            color: "red",
+            bg: "#FFCDD2",
+            githubLink: "https://github.com/username/fitness-tracker",
+            demoLink: "https://fitnesstracker-demo.com"
+        },
+        {
+            title: "Online Learning Platform",
+            description: "Learn new skills",
+            progress: 85,
+            time: "10 days left",
+            startDate: "Sep 25, 2023",
+            color: "yellow",
+            bg: "#FFF9C4",
+            githubLink: "https://github.com/username/online-learning-platform",
+            demoLink: "https://onlinelearning-demo.com"
+        },
     ],
 
     experience: [

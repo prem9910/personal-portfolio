@@ -86,10 +86,11 @@ const About = () => {
                 justify="space-between"
                 wrap="wrap"
               >
-                <Flex>
+                <Flex gap={10} >
                   <Text>{edu.university}</Text>
-                  <Text>{edu.degree}</Text>
+                  <Text type="secondary">{edu.degree}</Text>
                 </Flex>
+                  <Text type="secondary" strong italic>{edu.duration}</Text>
               </Flex>
             ))}
           </Flex>
